@@ -408,7 +408,7 @@ a {
     flex-grow: 2;
     flex-basis: 500px;
     margin: 20px 0px 20px 0px;
-    height: 500px;
+    height: 530px;
     background: #F7F5D7;
     border-radius: 20px;
 }
@@ -426,7 +426,7 @@ a {
     flex-grow: 2;
     flex-basis: 500px;
     margin: 20px 0px 20px 0px;
-    height: 450px;
+    height: 480px;
     background: #D7E9D1;
     border-radius: 20px;
 }
@@ -659,7 +659,7 @@ a {
         flex-grow: 2;
         flex-basis: 500px;
         margin: 20px 0px 20px 0px;
-        height: 720px;
+        height: 740px;
         background: #F7F5D7;
         border-radius: 20px;
     }
@@ -668,7 +668,7 @@ a {
         flex-grow: 2;
         flex-basis: 500px;
         margin: 20px 0px 20px 0px;
-        height: 620px;
+        height: 650px;
         background: #FBDAD4;
         border-radius: 20px;
 
